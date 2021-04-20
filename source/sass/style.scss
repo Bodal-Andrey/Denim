@@ -3,6 +3,9 @@
 @import "variables.scss";
 @import "mixin.scss";
 @import "scaffolding.scss";
-@import "blocks/header.scss";
-//Тут остальные импорта
-@import "blocks/footer.scss";
+@import "blocks/main-header.scss";
+@import "blocks/main-footer.scss";
+@import "blocks/promo.scss";
+@import "blocks/bestsellers.scss";
+@import "blocks/news.scss";
+@import "blocks/categories.scss";

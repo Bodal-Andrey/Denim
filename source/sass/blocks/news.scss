@@ -1,0 +1,33 @@
+.news {
+    padding-bottom: 70px;
+}
+
+.news-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 35px;
+}
+  
+.news-header__title {
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.news-wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.news-text__column {
+    width: 400px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #f1f2f4;
+}
+
+.news-img__column {
+    width: 700px;
+}

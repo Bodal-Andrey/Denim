@@ -1,0 +1,25 @@
+.promo {
+    background-color: #f1f2f4;
+}
+
+.promo-wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.promo-text___column {
+    width: 520px;
+}
+
+.promo-text {
+    font-family: $anton;
+    font-weight: normal;
+    font-size: 128px;
+    line-height: 188px;
+    text-transform: uppercase;
+}
+
+.promo-img__column {
+    width: 430px;
+    padding: 50px 50px;
+}

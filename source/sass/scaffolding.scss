@@ -1,5 +1,5 @@
 body {
-  min-width: 1170px;
+  min-width: 1366px;
   margin: 0;
   padding: 0;
 
@@ -46,13 +46,16 @@ html {
   box-sizing: inherit;
 }
 
-//Описываем контейнер
-
 .container {
   width: 1170px;
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+.show-more {
+  font-size: 18px;
+  line-height: 21px;
 }
 
 .button {
